@@ -31,7 +31,7 @@ Key Visualizations
 - Heatmaps for cohort analysis
 - Distribution plots
 - Correlation matrices
-- Time series analysis
+- Time series histplots
 
 Project Structure
 ├── PROYECTO_FINAL_TERMINADO.ipynb
